@@ -1,6 +1,4 @@
-Projeniz için bir `README.md` dosyası oluşturalım. Bu dosya, projenin ne yaptığını, nasıl kullanılacağını, özelliklerini ve gereksinimlerini açıklayan bir belge olacaktır. Aşağıda örnek bir `README.md` içeriği bulabilirsiniz:
 
----
 
 # Ağ Trafiği Analizi Aracı
 
