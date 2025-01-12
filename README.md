@@ -70,7 +70,7 @@ Bu uygulama, ağ trafiğini izlemek ve analiz etmek için geliştirilmiş bir GU
 ## Ekran Görüntüleri
 
 ### Ana Pencere
-![Ana Pencere](screenshots/main_window.png)
+![Ana Pencere]([screenshots/main_window.png](https://i.imgur.com/Dxdn8mM.jpg))
 
 ### Netstat Penceresi
 ![Netstat Penceresi](screenshots/netstat_window.png)
