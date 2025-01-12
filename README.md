@@ -70,16 +70,15 @@ Bu uygulama, ağ trafiğini izlemek ve analiz etmek için geliştirilmiş bir GU
 ## Ekran Görüntüleri
 
 ### Ana Pencere
-![Ana Pencere]([screenshots/main_window.png](https://i.imgur.com/Dxdn8mM.jpg))
+[Imgur](https://i.imgur.com/Dxdn8mM.jpg)
 
 ### Netstat Penceresi
-![Netstat Penceresi](screenshots/netstat_window.png)
+[Imgur](https://i.imgur.com/fExJa19.jpg)
 
 ### Ping Aracı
-![Ping Aracı](screenshots/ping_tool.png)
-
+[Imgur](https://i.imgur.com/ngamgC8.jpg)
 ---
-
+[Imgur](https://i.imgur.com/uSMJo4Z.jpg)
 ## Katkıda Bulunma
 
 Eğer bu projeye katkıda bulunmak isterseniz, lütfen bir "Pull Request" açın. Katkılarınızı bekliyoruz!
