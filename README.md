@@ -5,8 +5,7 @@
 Bu uygulama, ağ trafiğini izlemek ve analiz etmek için geliştirilmiş bir GUI (Grafiksel Kullanıcı Arayüzü) uygulamasıdır. Python ve `scapy` kütüphanesi kullanılarak geliştirilmiştir. Uygulama, ağ paketlerini yakalama, filtreleme, netstat çıktısını görüntüleme, ping atma ve MTU değerlerini görüntüleme gibi özellikler sunar.
 
 
-imgurl["https://i.imgur.com/uSMJo4Z.jpg"]
-
+![Ağ Trafiği Analizi Aracı](https://i.imgur.com/uSMJo4Z.jpg)
 
 ---
 
